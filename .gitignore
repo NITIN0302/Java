@@ -27,3 +27,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+
+.idea
+.out
+Java Learning.iml
+newPdf
+new-txt
+note
+UserInfo.ser
