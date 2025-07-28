@@ -29,10 +29,10 @@ bin/
 .DS_Store
 
 
-.idea
-.out
-Java Learning.iml
-newPdf
-new-txt
-note
+.idea/
+.out/
+Java\ Learning.iml
+newPdf/
+new-txt/
+note/
 UserInfo.ser
